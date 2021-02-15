@@ -1,0 +1,12 @@
+{
+  "name": "react-view",
+  "displayName": "react-view",
+  "expo": {
+    "name": "react-view",
+    "slug": "react-view",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
